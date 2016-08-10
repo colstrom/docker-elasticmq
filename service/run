@@ -1,0 +1,3 @@
+#!/usr/bin/execlineb -P
+
+java -jar /package/host/github.com/adamw/elasticmq/elasticmq-server.jar
